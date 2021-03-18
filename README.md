@@ -2,12 +2,12 @@
 
 ![Badge](/github/login.gif)
 
-## 💻 Proposta do projeto
+## 💻 Project proposal
 
-Massa é um projeto em desenvolvimento que consta em um site/plataforma para interligar programadores #OpenToWork e empresas buscando estes talentos. Cujo objetivo é ajudar por meio deste, desenvolvedores desempregados a conseguir seu primeiro emprego.
+Massa is a project under development that appears on a website / platform to connect #OpenToWork programmers and companies looking for these talents. The purpose of which is to help unemployed developers to get their first job.
 
 <h2>
-  👨‍💻 Tecnologias utilizadas
+  👨‍💻 Technologies used
 </h2>
 
 <ul>
@@ -16,7 +16,7 @@ Massa é um projeto em desenvolvimento que consta em um site/plataforma para int
 </ul>
 
 <h2>
-  🔍 Requisitos de software
+  🔍 Software requirements
 </h2>
 
 <ul>
@@ -24,21 +24,19 @@ Massa é um projeto em desenvolvimento que consta em um site/plataforma para int
 </ul>
 
 <h2>
-  💡 Para acessar o projeto
+  💡 To access the project
 </h2>
 
-### Clone o repositório para ter uma cópia do código em sua máquina
+### Clone the repository to have a copy of the code on your machine
 ```bash
 $ git clone https://github.com/DeboraZandonai/Massa.git
 ```
-### Para visualizar o projeto 
+### To view the project 
 ```bash
 $ open with Live Server
 ```
 
-## 📝 Licença
-Este projeto encontra-se sob a licença **MIT**. Para mais informações, acesse o arquivo **LICENSE**.
-
-<hr />
+## 📝 License
+This project is under the **MIT** license. For more information, access the file **LICENSE**.
 
 <h4 align=center>Made with ❤️ by <a href="https://www.linkedin.com/in/debora-zandonai-4ab092195/">Debora Zandonai</a></h4>
